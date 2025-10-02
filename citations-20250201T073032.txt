@@ -1,0 +1,25 @@
+RT Journal Article
+A1 Merricks, Edward M.
+A1 Smith, Elliot H.
+A1 McKhann, Guy M.
+A1 Goodman, Robert R.
+A1 Bateman, Lisa M.
+A1 Emerson, Ronald G.
+A1 Schevon, Catherine A.
+A1 Trevelyan, Andrew J.
+T1 Single unit action potentials in humans and the effect of seizure activity
+JF Brain
+JO Brain
+YR 2015
+DO 10.1093/brain/awv208
+VO 138
+IS 10
+SP 2891
+OP 2906
+SN 0006-8950
+AB See Kimchi and Cash (doi:10.1093/awv264) for a scientific commentary on this article.Spike-sorting algorithms have been used to identify the firing patterns of isolated neurons (‘single units’) from implanted electrode recordings in patients undergoing assessment for epilepsy surgery, but we do not know their potential for providing helpful clinical information. It is important therefore to characterize both the stability of these recordings and also their context. A critical consideration is where the units are located with respect to the focus of the pathology. Recent analyses of neuronal spiking activity, recorded over extended spatial areas using microelectrode arrays, have demonstrated the importance of considering seizure activity in terms of two distinct spatial territories: the ictal core and penumbral territories. The pathological information in these two areas, however, is likely to be very different. We investigated, therefore, whether units could be followed reliably over prolonged periods of times in these two areas, including during seizure epochs. We isolated unit recordings from several hundred neurons from four patients undergoing video-telemetry monitoring for surgical evaluation of focal neocortical epilepsies. Unit stability could last in excess of 40 h, and across multiple seizures. A key finding was that in the penumbra, spike stereotypy was maintained even during the seizure. There was a net tendency towards increased penumbral firing during the seizure, although only a minority of units (10–20%) showed significant changes over the baseline period, and notably, these also included neurons showing significant reductions in firing. In contrast, within the ictal core territories, regions characterized by intense hypersynchronous multi-unit firing, our spike sorting algorithms failed as the units were incorporated into the seizure activity. No spike sorting was possible from that moment until the end of the seizure, but recovery of the spike shape was rapid following seizure termination: some units reappeared within tens of seconds of the end of the seizure, and over 80% reappeared within 3 min (τrecov = 104 ± 22 s). The recovery of the mean firing rate was close to pre-ictal levels also within this time frame, suggesting that the more protracted post-ictal state cannot be explained by persistent cellular neurophysiological dysfunction in either the penumbral or the core territories. These studies lay the foundation for future investigations of how these recordings may inform clinical practice.
+RD 2/1/2025
+UL https://doi.org/10.1093/brain/awv208
+
+
+
